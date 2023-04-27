@@ -1,3 +1,3 @@
-print("hallo word")
+print("hallo dodi")
 print("Belajar Ai")
 print("YES")
