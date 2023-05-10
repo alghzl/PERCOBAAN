@@ -1,3 +1,3 @@
 print("hallo dodi")
 print("Belajar Ai")
-print("pertama commit cabang1")
+print("pertama commit percabangan1")
